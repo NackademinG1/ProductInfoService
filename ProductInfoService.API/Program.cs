@@ -1,6 +1,3 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using ProductInfoService.Business.Interfaces;
 using ProductInfoService.Business.Services;
 using ProductInfoService.Data.Interfaces;

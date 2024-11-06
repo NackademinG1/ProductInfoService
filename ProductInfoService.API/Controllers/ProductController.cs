@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProductInfoService.Business.Interfaces;
-using ProductInfoService.Models;
 
 namespace ProductInfoService.API.Controllers;
 

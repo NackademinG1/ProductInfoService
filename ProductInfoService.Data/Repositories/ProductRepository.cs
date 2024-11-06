@@ -1,6 +1,5 @@
 ﻿using ProductInfoService.Data.Interfaces;
 using ProductInfoService.Models;
-using System.Collections.Generic;
 
 namespace ProductInfoService.Data.Repositories;
 

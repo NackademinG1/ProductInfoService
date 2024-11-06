@@ -1,9 +1,7 @@
-﻿using Xunit;
-using Moq;
+﻿using Moq;
 using ProductInfoService.Business.Services;
 using ProductInfoService.Data.Interfaces;
 using ProductInfoService.Models;
-using System.Collections.Generic;
 
 namespace ProductInfoService.Tests.Services
 {
