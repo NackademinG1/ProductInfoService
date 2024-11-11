@@ -7,7 +7,7 @@ public class ProductRepository : IProductRepository
 {
     public Product GetProductById(int id)
     {
-        // Returnerar dummy-data
+       
         return new Product
         {
             Id = id,
