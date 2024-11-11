@@ -1,7 +1,7 @@
 ﻿using Moq;
 using ProductInfoService.Business.Services;
 using ProductInfoService.Data.Interfaces;
-using ProductInfoService.Models;
+using ProductInfoService.Domain;
 
 namespace ProductInfoService.Tests.Services
 {

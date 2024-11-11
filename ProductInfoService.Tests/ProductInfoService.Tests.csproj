@@ -20,7 +20,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ProductInfoService.Business\ProductInfoService.Business.csproj" />
     <ProjectReference Include="..\ProductInfoService.Data\ProductInfoService.Data.csproj" />
-    <ProjectReference Include="..\ProductInfoService.Models\ProductInfoService.Models.csproj" />
+    <ProjectReference Include="..\ProductInfoService.Models\ProductInfoService.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>

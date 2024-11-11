@@ -1,4 +1,4 @@
-﻿using ProductInfoService.Models;
+﻿using ProductInfoService.Domain;
 
 namespace ProductInfoService.Business.Interfaces;
 

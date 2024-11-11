@@ -1,5 +1,5 @@
 ﻿using ProductInfoService.Data.Interfaces;
-using ProductInfoService.Models;
+using ProductInfoService.Domain;
 
 namespace ProductInfoService.Data.Repositories;
 
